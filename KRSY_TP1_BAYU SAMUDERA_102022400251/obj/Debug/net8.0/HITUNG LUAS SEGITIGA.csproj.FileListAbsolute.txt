@@ -1,0 +1,28 @@
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\bin\Debug\net8.0\HITUNG LUAS SEGITIGA.exe
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\bin\Debug\net8.0\HITUNG LUAS SEGITIGA.deps.json
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\bin\Debug\net8.0\HITUNG LUAS SEGITIGA.runtimeconfig.json
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\bin\Debug\net8.0\HITUNG LUAS SEGITIGA.dll
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\bin\Debug\net8.0\HITUNG LUAS SEGITIGA.pdb
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.AssemblyInfoInputs.cache
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.AssemblyInfo.cs
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.csproj.CoreCompileInputs.cache
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.dll
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\obj\Debug\net8.0\refint\HITUNG LUAS SEGITIGA.dll
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.pdb
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.genruntimeconfig.cache
+c:\Users\Bayu\Desktop\telkom\HITUNG LUAS SEGITIGA\obj\Debug\net8.0\ref\HITUNG LUAS SEGITIGA.dll
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\bin\Debug\net8.0\HITUNG LUAS SEGITIGA.exe
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\bin\Debug\net8.0\HITUNG LUAS SEGITIGA.deps.json
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\bin\Debug\net8.0\HITUNG LUAS SEGITIGA.runtimeconfig.json
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\bin\Debug\net8.0\HITUNG LUAS SEGITIGA.dll
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\bin\Debug\net8.0\HITUNG LUAS SEGITIGA.pdb
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.AssemblyInfoInputs.cache
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.AssemblyInfo.cs
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.csproj.CoreCompileInputs.cache
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.dll
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\obj\Debug\net8.0\refint\HITUNG LUAS SEGITIGA.dll
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.pdb
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\obj\Debug\net8.0\HITUNG LUAS SEGITIGA.genruntimeconfig.cache
+c:\Users\Bayu\Desktop\telkom\KRSY_TP1_BAYU SAMUDERA_102022400251\obj\Debug\net8.0\ref\HITUNG LUAS SEGITIGA.dll
